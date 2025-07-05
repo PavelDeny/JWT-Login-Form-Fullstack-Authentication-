@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+  background-color: #f7f7f7;
+}
+
+input {
+  margin: 0.5rem;
+  padding: 0.5rem;
+}
+
+button {
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+}
